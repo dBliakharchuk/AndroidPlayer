@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        android:visible="true"
+        android:allowBackup="true"
+        />
+    <item
+        android:id="@+id/plus2x"
+        android:title="2x"
+        android:visible="true"
+        android:allowBackup="true"
+        />
+    <item
+        android:id="@+id/plusx"
+        android:title="x"
+        android:visible="true"
+        android:allowBackup="true"
+        />
+    <item
+        android:id="@+id/plus0.5x"
+        android:title="0.5x"
+        android:visible="true"
+        android:allowBackup="true"
+        />
+</menu>
